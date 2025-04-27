@@ -1,5 +1,8 @@
+project:
+  type: website
+
 website:
-  title: "yanitaopp.github.io" 
+  title: "Your Name Portfolio"
   navbar:
     left:
       - text: About You
@@ -10,8 +13,7 @@ website:
         href: cv.qmd
       - text: Contact
         href: contact.qmd
+
 format:
   html:
-    theme: cosmo 
-
-
+    theme: cosmo
