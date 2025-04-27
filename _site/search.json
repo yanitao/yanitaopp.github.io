@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nHello! My name is Yani Tao, and I am passionate about coding. I am currently learning business analytics at Boston University.\nMy interests include: - Machine Learning - Data Analytics - Web Development"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Hello, World!\nWelcome to my Quarto website."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can download my CV [here].\n\n\nA motivated data analyst with experience in Python, SQL, and Tableau. Passionate about turning data into actionable insights."
+  },
+  {
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "A motivated data analyst with experience in Python, SQL, and Tableau. Passionate about turning data into actionable insights."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact Me\nFeel free to reach out!\n\nEmail: tynfall@bu.edu\nGitHub: yanitaopp.github.io"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: [Brief project description]\nTechnologies used: [Python, R, SQL, etc.]\n[Optional: Screenshot or link]\n\n\n\n\n\nDescription: [Brief project description]\nTechnologies used: [Python, Tableau, etc.]"
+  },
+  {
+    "objectID": "projects.html#project-1-project-title",
+    "href": "projects.html#project-1-project-title",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: [Brief project description]\nTechnologies used: [Python, R, SQL, etc.]\n[Optional: Screenshot or link]"
+  },
+  {
+    "objectID": "projects.html#project-2-another-project",
+    "href": "projects.html#project-2-another-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Description: [Brief project description]\nTechnologies used: [Python, Tableau, etc.]"
+  }
+]

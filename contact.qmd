@@ -1,0 +1,10 @@
+---
+title: "Contact"
+---
+
+# Contact Me
+
+Feel free to reach out!
+
+- Email: tynfall@bu.edu
+- GitHub: yanitaopp.github.io

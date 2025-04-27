@@ -1,0 +1,14 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+Hello! My name is Yani Tao, and I am passionate about coding.
+I am currently learning business analytics at Boston University.
+
+My interests include:
+- Machine Learning
+- Data Analytics
+- Web Development
+

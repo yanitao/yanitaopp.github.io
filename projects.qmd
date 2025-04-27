@@ -1,0 +1,14 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Project 1: [Project Title]
+- Description: [Brief project description]
+- Technologies used: [Python, R, SQL, etc.]
+- [Optional: Screenshot or link]
+
+## Project 2: [Another Project]
+- Description: [Brief project description]
+- Technologies used: [Python, Tableau, etc.]
