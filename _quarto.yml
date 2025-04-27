@@ -12,6 +12,6 @@ website:
         href: contact.qmd
 format:
   html:
-    theme: cosmo
+    theme: cosmo 
 
 
