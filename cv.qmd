@@ -1,5 +1,6 @@
 ---
 title: "Curriculum Vitae"
+format: html
 ---
 
 # Curriculum Vitae

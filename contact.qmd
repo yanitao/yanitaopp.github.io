@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+format: html
 ---
 
 # Contact Me
@@ -7,4 +8,4 @@ title: "Contact"
 Feel free to reach out!
 
 - Email: tynfall@bu.edu
-- GitHub: yanitaopp.github.io
+- GitHub: https://github.com/yanitao

@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "About Me\nHello! My name is Yani Tao, and I am passionate about coding. I am currently learning business analytics at Boston University.\nMy interests include: - Machine Learning - Data Analytics - Web Development"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My Website",
-    "section": "",
-    "text": "Hello, World!\nWelcome to my Quarto website."
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -28,11 +14,18 @@
     "text": "A motivated data analyst with experience in Python, SQL, and Tableau. Passionate about turning data into actionable insights."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "Welcome to My Portfolio\nThis is the homepage of my personal website.\nPlease use the navigation bar above to explore more about me!"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact Me\nFeel free to reach out!\n\nEmail: tynfall@bu.edu\nGitHub: yanitaopp.github.io"
+    "text": "Contact Me\nFeel free to reach out!\n\nEmail: tynfall@bu.edu\nGitHub: https://github.com/yanitao"
   },
   {
     "objectID": "projects.html",
@@ -54,5 +47,12 @@
     "title": "Projects",
     "section": "",
     "text": "Description: [Brief project description]\nTechnologies used: [Python, Tableau, etc.]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nHi, I’m Yani Tao, a passionate developer and data enthusiast!\nMy interests include: - Machine Learning - Data Analytics - Web Development"
   }
 ]

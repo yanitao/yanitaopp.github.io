@@ -1,11 +1,11 @@
 ---
 title: "About Me"
+format: html
 ---
 
 # About Me
 
-Hello! My name is Yani Tao, and I am passionate about coding.
-I am currently learning business analytics at Boston University.
+Hi, I'm Yani Tao, a passionate developer and data enthusiast!
 
 My interests include:
 - Machine Learning

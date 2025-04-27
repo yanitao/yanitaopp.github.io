@@ -1,11 +1,13 @@
 ---
 title: "Welcome to My Website"
 author: "Yani Tao"
-date: "2025-04-26"
 format:
   html:
     theme: journal
     toc: true
 ---
-# Hello, World!  
-Welcome to my Quarto website. 
+
+# Welcome to My Portfolio
+
+This is the homepage of my personal website.  
+Please use the navigation bar above to explore more about me!
